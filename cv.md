@@ -10,6 +10,13 @@
   * HTML
   * CSS
 ## Code Examples
+<body>
+    <p>Hello World</p>
+     <!--<script>
+        alert(1);
+    </script>-->
+   <script src="js/script.js"></script>
+</body>
 ## Education
   * Belarusian State University of Informatics and Radioelectronics
   * IT Academy - manual QA (2022)
